@@ -36,7 +36,7 @@
 ```javascript
 const dinesh = {
     title: "AI Enthusiast & Full Stack Developer",
-    location: "Tamil Nadu, India 📍",
+    location: "Puducherry, India 📍",
     education: "B.Tech IT @ SMVEC",
     currentFocus: ["Artificial Intelligence", "Machine Learning", "Innovation"],
     experience: ["AI Intern @ Nuevera Infotech", "GenAI Intern @ Flaunch"],
